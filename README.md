@@ -1,4 +1,4 @@
-**Exercícios da OBI**
+**Exercícios da OBM**
 
 pra executar cada um manualmente, segue os passos adiante no powershell dentro da pasta OBI:
 
