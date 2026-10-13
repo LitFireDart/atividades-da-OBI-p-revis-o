@@ -41,5 +41,3 @@ digite em ordem "2, 24, 123"
 10 - Recorde
 
 digite em ordem "97, 95, 98"
-
-# deixa sua avaliação pelo telegram msm #
